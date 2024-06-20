@@ -1,0 +1,1 @@
+C:\Users\Edriane>streamlit run "C:\Users\Edriane\Desktop\Diabetes Prediction web app\Diabetes Prediction web app.py"
